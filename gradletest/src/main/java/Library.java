@@ -5,6 +5,7 @@
  * @author zhiweitong, @date 17-6-6 下午1:06
  */
 public class Library {
+	
     public boolean someLibraryMethod() {
         return true;
     }
